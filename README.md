@@ -1,0 +1,2 @@
+# PolyrhythmicSequencer
+Polyrhytmic Sequencer interface 
